@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-🌈 Shandong Key Laboratory of **Di**gital **S**ervice **C**omputing Technology and Systems, <strong>DiSC Lab</strong>
+🌈 Welcome to the Shandong Key Laboratory of **Di**gital **S**ervice **C**omputing Technology and Systems, <strong>DiSC Lab</strong>
 
-👨‍💻 Dedicated to cutting-edge research in cognitive services and domain-specific artificial intelligence.
+👨‍💻 Dedicated to cutting-edge research in Cognitive Services and Domain-specific AI.
 
 ### 山东省数字服务计算技术与系统重点实验室
 
