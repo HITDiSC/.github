@@ -1,4 +1,4 @@
-<img align='right' src='qrcode.jpg' width=20% />
+<img align='right' src='profile/qrcode.jpg' width=20% />
 
 ### Hi there 👋
 
